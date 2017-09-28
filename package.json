@@ -1,0 +1,26 @@
+{
+  "name": "sun.js",
+  "version": "1.0.0",
+  "description": "HTML5 charts using canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexZ33/sun.js.git"
+  },
+  "keywords": [
+    "canvas",
+    "charts"
+  ],
+  "author": "AlexZ33",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexZ33/sun.js/issues"
+  },
+  "homepage": "https://github.com/AlexZ33/sun.js#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
