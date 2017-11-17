@@ -11,6 +11,8 @@
     "url": "git+https://github.com/AlexZ33/sun.js.git"
   },
   "keywords": [
+    "d3",
+    "d3-libary",
     "canvas",
     "charts"
   ],
@@ -22,5 +24,8 @@
   "homepage": "https://github.com/AlexZ33/sun.js#readme",
   "devDependencies": {
     "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "d3": "^4.11.0"
   }
 }
