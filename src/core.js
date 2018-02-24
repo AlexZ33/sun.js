@@ -7,10 +7,10 @@
 */
 
 //invoke d3.js
-var d3 = require('d3');
+import * as d3 = require('d3');
 //set up main  sun object
- 
-var sun = {};
+
+
 
 
 //the major global object under the sun namespace
